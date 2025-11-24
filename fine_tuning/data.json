@@ -1,0 +1,345 @@
+[
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Os produtos colocados no mercado podem oferecer riscos à saúde do consumidor?" },
+      { "role": "assistant", "content": "Via de regra, não. Os produtos e serviços não podem acarretar riscos à saúde ou segurança dos consumidores, exceto aqueles considerados normais e previsíveis em decorrência de sua natureza e fruição (como uma faca, por exemplo). Em qualquer hipótese, o fornecedor é obrigado a dar informações necessárias e adequadas a respeito desses riscos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "No caso de produtos industriais, como o fabricante deve alertar sobre riscos normais do produto?" },
+      { "role": "assistant", "content": "Tratando-se de produto industrial, cabe ao fabricante prestar as informações sobre riscos através de impressos apropriados que devem acompanhar o produto." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Como o fornecedor deve agir ao vender produtos potencialmente nocivos?" },
+      { "role": "assistant", "content": "O fornecedor de produtos e serviços potencialmente nocivos ou perigosos à saúde ou segurança deve informar, de maneira ostensiva e adequada, a respeito da sua nocividade ou periculosidade." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O fornecedor pode colocar no mercado um produto que ele sabe apresentar alto grau de periculosidade?" },
+      { "role": "assistant", "content": "Não. O fornecedor não pode colocar no mercado de consumo produto ou serviço que sabe ou deveria saber apresentar alto grau de nocividade ou periculosidade à saúde ou segurança." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O que o fornecedor deve fazer se descobrir que um produto é perigoso após já ter vendido?" },
+      { "role": "assistant", "content": "Se o fornecedor tiver conhecimento da periculosidade após a introdução no mercado, deverá comunicar o fato imediatamente às autoridades competentes e aos consumidores, mediante anúncios publicitários." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Quem paga pelos anúncios de recall (aviso de periculosidade)?" },
+      { "role": "assistant", "content": "Os anúncios publicitários serão veiculados na imprensa, rádio e televisão, às expensas (custas) do fornecedor do produto ou serviço." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Quem responde pela reparação de danos causados por defeitos de fabricação?" },
+      { "role": "assistant", "content": "O fabricante, o produtor, o construtor (nacional ou estrangeiro) e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos de fabricação, projeto, montagem, etc." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "É necessário provar culpa do fabricante para ser indenizado por um defeito do produto?" },
+      { "role": "assistant", "content": "Não. A responsabilidade do fabricante, produtor e importador independe da existência de culpa." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O que caracteriza um produto defeituoso?" },
+      { "role": "assistant", "content": "O produto é defeituoso quando não oferece a segurança que dele legitimamente se espera, considerando sua apresentação, o uso e riscos razoavelmente esperados e a época em que foi colocado em circulação." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Um produto é considerado defeituoso só porque saiu um modelo novo melhor?" },
+      { "role": "assistant", "content": "Não. O produto não é considerado defeituoso pelo fato de outro de melhor qualidade ter sido colocado no mercado." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Em quais situações o fabricante não será responsabilizado por danos?" },
+      { "role": "assistant", "content": "Ele não será responsabilizado se provar que não colocou o produto no mercado; que, embora tenha colocado, o defeito inexiste; ou que a culpa é exclusiva do consumidor ou de terceiro." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Quando o comerciante (loja) é responsável pelo defeito do produto?" },
+      { "role": "assistant", "content": "O comerciante é responsável quando o fabricante/importador não puderem ser identificados; quando o produto for fornecido sem identificação clara do fabricante; ou quando o comerciante não conservar adequadamente produtos perecíveis." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Se o comerciante pagar a indenização, ele pode cobrar do fabricante?" },
+      { "role": "assistant", "content": "Sim. Aquele que efetivar o pagamento ao prejudicado poderá exercer o direito de regresso contra os demais responsáveis, segundo sua participação no evento danoso." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O fornecedor de serviços precisa ter culpa para responder por danos?" },
+      { "role": "assistant", "content": "Não. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços ou informações insuficientes." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O que define um serviço defeituoso?" },
+      { "role": "assistant", "content": "O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, considerando o modo de fornecimento, o resultado e riscos esperados, e a época em que foi fornecido." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "A responsabilidade de profissionais liberais (como médicos e advogados) é objetiva?" },
+      { "role": "assistant", "content": "Não. A responsabilidade pessoal dos profissionais liberais será apurada mediante a verificação de culpa." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Quem responde por vícios de qualidade que tornam o produto impróprio?" },
+      { "role": "assistant", "content": "Os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade que os tornem impróprios ou inadequados ao consumo." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Qual o prazo máximo para o fornecedor sanar um vício no produto?" },
+      { "role": "assistant", "content": "O prazo máximo é de trinta dias." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Se o defeito não for consertado em 30 dias, o que o consumidor pode exigir?" },
+      { "role": "assistant", "content": "O consumidor pode exigir, à sua escolha: I - a substituição do produto por outro da mesma espécie; II - a restituição imediata da quantia paga, atualizada; ou III - o abatimento proporcional do preço." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "As partes podem combinar um prazo diferente de 30 dias para conserto?" },
+      { "role": "assistant", "content": "Sim, poderão convencionar a redução ou ampliação do prazo, não podendo ser inferior a sete nem superior a cento e oitenta dias." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Quando o consumidor não precisa esperar os 30 dias para conserto?" },
+      { "role": "assistant", "content": "Quando, em razão da extensão do vício, a substituição das partes puder comprometer a qualidade ou características do produto, diminuir-lhe o valor ou se tratar de produto essencial." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Se não houver o mesmo produto para troca, o que acontece?" },
+      { "role": "assistant", "content": "Poderá haver substituição por outro de espécie, marca ou modelo diversos, mediante complementação ou restituição de eventual diferença de preço." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Produtos com prazo de validade vencido são considerados impróprios?" },
+      { "role": "assistant", "content": "Sim, os produtos cujos prazos de validade estejam vencidos são considerados impróprios ao uso e consumo." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O que acontece se a quantidade do produto for menor que a indicada na embalagem?" },
+      { "role": "assistant", "content": "O consumidor pode exigir o abatimento proporcional do preço, a complementação do peso/medida, a substituição do produto ou a restituição imediata da quantia paga." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Se o serviço apresentar vícios de qualidade, o consumidor pode pedir o dinheiro de volta?" },
+      { "role": "assistant", "content": "Sim, o consumidor pode exigir a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de perdas e danos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O consumidor pode pedir para refazerem o serviço mal feito?" },
+      { "role": "assistant", "content": "Sim, pode exigir a reexecução dos serviços, sem custo adicional e quando cabível." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "A reexecução de um serviço pode ser feita por outra pessoa?" },
+      { "role": "assistant", "content": "Sim, a reexecução pode ser confiada a terceiros devidamente capacitados, por conta e risco do fornecedor." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Ao consertar um produto, o fornecedor pode usar peças usadas?" },
+      { "role": "assistant", "content": "Não, a menos que o consumidor autorize. A obrigação implícita é de empregar componentes de reposição originais adequados e novos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Os serviços públicos essenciais podem ser interrompidos?" },
+      { "role": "assistant", "content": "Não. Os órgãos públicos e concessionárias são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O fornecedor pode alegar que não sabia do defeito para não responder?" },
+      { "role": "assistant", "content": "Não. A ignorância do fornecedor sobre os vícios de qualidade não o exime de responsabilidade." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "A garantia legal precisa estar escrita em contrato?" },
+      { "role": "assistant", "content": "Não. A garantia legal de adequação do produto ou serviço independe de termo expresso." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "É válida uma cláusula no contrato que impede a indenização do consumidor?" },
+      { "role": "assistant", "content": "Não. É vedada a estipulação contratual de cláusula que impossibilite, exonere ou atenue a obrigação de indenizar." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Qual o prazo para reclamar de defeitos fáceis de notar em serviços ou produtos não duráveis?" },
+      { "role": "assistant", "content": "O prazo é de trinta dias." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Qual o prazo para reclamar de defeitos aparentes em produtos duráveis?" },
+      { "role": "assistant", "content": "O prazo é de noventa dias." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Quando começa a contar o prazo para reclamar de defeito aparente?" },
+      { "role": "assistant", "content": "Inicia-se a contagem a partir da entrega efetiva do produto ou do término da execução dos serviços." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Se eu reclamar com o fornecedor, o prazo para entrar na justiça para?" },
+      { "role": "assistant", "content": "Sim. A reclamação comprovadamente formulada perante o fornecedor obsta (pausa) a decadência até a resposta negativa correspondente." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "E se o defeito for oculto (escondido), quando começa o prazo?" },
+      { "role": "assistant", "content": "Tratando-se de vício oculto, o prazo decadencial inicia-se no momento em que ficar evidenciado o defeito." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Qual o prazo para pedir indenização por danos causados por um acidente de consumo (fato do produto)?" },
+      { "role": "assistant", "content": "A pretensão prescreve em cinco anos, iniciando-se a contagem a partir do conhecimento do dano e de sua autoria." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O juiz pode desconsiderar a personalidade jurídica da empresa para atingir os bens dos sócios?" },
+      { "role": "assistant", "content": "Sim, quando houver abuso de direito, excesso de poder, infração da lei, fato ilícito, violação dos estatutos, falência, insolvência, ou sempre que a personalidade for obstáculo ao ressarcimento de prejuízos aos consumidores." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "A publicidade feita pelo fornecedor obriga ele a cumprir o que prometeu?" },
+      { "role": "assistant", "content": "Sim. Toda informação ou publicidade, suficientemente precisa, obriga o fornecedor e integra o contrato que vier a ser celebrado." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Quais informações devem constar na oferta de produtos?" },
+      { "role": "assistant", "content": "A oferta deve assegurar informações corretas, claras, precisas, ostensivas e em língua portuguesa sobre características, qualidade, quantidade, composição, preço, garantia, prazos de validade, origem e riscos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O fabricante é obrigado a manter peças de reposição?" },
+      { "role": "assistant", "content": "Sim, enquanto não cessar a fabricação ou importação. Cessadas estas, a oferta deve ser mantida por período razoável de tempo." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O que deve constar em vendas por telefone ou reembolso postal?" },
+      { "role": "assistant", "content": "Deve constar o nome do fabricante e endereço na embalagem, publicidade e em todos os impressos utilizados na transação." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O fornecedor é responsável pelos atos de seus representantes autônomos?" },
+      { "role": "assistant", "content": "Sim, o fornecedor é solidariamente responsável pelos atos de seus prepostos ou representantes autônomos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "Se o fornecedor se recusar a cumprir a oferta, o que eu posso fazer?" },
+      { "role": "assistant", "content": "O consumidor pode: I - exigir o cumprimento forçado da obrigação; II - aceitar outro produto equivalente; ou III - rescindir o contrato com direito à restituição do valor pago e perdas e danos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "A publicidade precisa ser identificada como tal?" },
+      { "role": "assistant", "content": "Sim, a publicidade deve ser veiculada de tal forma que o consumidor, fácil e imediatamente, a identifique como tal." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O fornecedor precisa guardar os dados que comprovam o que ele diz na propaganda?" },
+      { "role": "assistant", "content": "Sim, o fornecedor manterá em seu poder os dados fáticos, técnicos e científicos que dão sustentação à mensagem." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O que é publicidade enganosa?" },
+      { "role": "assistant", "content": "É qualquer modalidade de informação ou comunicação de caráter publicitário inteira ou parcialmente falsa, ou que por omissão, seja capaz de induzir o consumidor em erro a respeito da natureza, características, qualidade, quantidade, preço, etc." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor." },
+      { "role": "user", "content": "O que é publicidade abusiva?" },
+      { "role": "assistant", "content": "É a publicidade discriminatória, que incite à violência, explore o medo ou a superstição, se aproveite da deficiência de julgamento da criança, desrespeite valores ambientais, ou induza o consumidor a se comportar de forma prejudicial à saúde ou segurança." }
+    ]
+  }
+]
