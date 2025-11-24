@@ -1,0 +1,2 @@
+JOB_ID = ftjob-4YsS9JOpIwd5hak7A9NcYRkm
+fine_tuned_model = ft:gpt-4o-mini-2024-07-18:personal::CfNSu6qd
