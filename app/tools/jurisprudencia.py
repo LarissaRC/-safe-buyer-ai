@@ -1,4 +1,4 @@
-# Versão simples só para demonstração no projeto / TCC
+# Versão simples só para demonstração no projeto
 # No futuro, isso pode virar uma busca vetorial (RAG) de verdade.
 
 EXEMPLOS_JURIS = [
