@@ -5,7 +5,7 @@ from app.agents.triage_agent import triage
 from app.tools.jurisprudencia import buscar_casos_parecidos
 
 
-def processar_queixa(queixa: str) -> str:
+def processar_queixa(queixa: str) -> tuple[str, dict]:
     # 2. Triagem
     triagem = triage(queixa)
 

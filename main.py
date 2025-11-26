@@ -1,28 +1,14 @@
-from app.workflow.e_consumidor import processar_queixa
+from mcp_server import mcp
 
 
 def main():
-    print("=== e-Consumidor – Assistente Jurídico para Consumidores ===")
-    print("Digite seu problema como consumidor. Linha em branco para sair.\n")
+    """
+    Entry point principal do projeto.
 
-    while True:
-        queixa = input("Relate o problema (ou ENTER para sair):\n> ")
-        if not queixa.strip():
-            break
-
-        print("\nProcessando sua queixa...\n")
-
-        resposta_final, triagem = processar_queixa(queixa)
-
-        print("=== Classificação da Triagem ===")
-        print(f"Categoria:    {triagem.get('categoria')}")
-        print(f"Subcategoria: {triagem.get('subcategoria')}")
-        print(f"Urgência:     {triagem.get('urgencia')}")
-        print(f"Resumo:       {triagem.get('resumo')}\n")
-
-        print("=== Resposta do Assistente Jurídico ===")
-        print(resposta_final)
-        print("\n" + "=" * 70 + "\n")
+    Quando você roda `python main.py`, sobe o servidor MCP `e-consumidor`
+    usando transporte stdio, pronto para ser conectado por ChatGPT/Claude/Copilot.
+    """
+    mcp.run(transport="stdio")
 
 
 if __name__ == "__main__":
