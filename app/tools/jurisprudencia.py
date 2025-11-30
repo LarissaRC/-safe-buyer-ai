@@ -1,3 +1,8 @@
+"""
+Tool de jurisprudência: retorna exemplos simples de casos por categoria.
+Usada para enriquecer a resposta do fluxo principal; versão mock para demo.
+"""
+
 # Versão simples só para demonstração no projeto
 # No futuro, isso pode virar uma busca vetorial (RAG) de verdade.
 

@@ -1,3 +1,8 @@
+"""
+Agente jurídico: gera análise textual baseada na triagem e no relato.
+Executado após triagem no fluxo principal.
+"""
+
 from app.config import LEGAL_MODEL_ID, client
 
 LEGAL_SYSTEM_PROMPT = """

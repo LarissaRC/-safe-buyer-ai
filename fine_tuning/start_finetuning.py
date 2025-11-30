@@ -1,8 +1,13 @@
+"""
+Script auxiliar/experimental para preparar e disparar um job de fine-tuning.
+Não faz parte do fluxo de produção; use apenas em contexto de laboratório.
+"""
+
 from openai import OpenAI
 import json
 import os
 
-client = OpenAI(api_key="SUA-CHAVE-AQUI")
+client = OpenAI(api_key="SUA-CHAVE-AQUI")  # placeholder para execução local controlada
 
 input_json_file = "data.json"
 output_jsonl_file = "data.jsonl"

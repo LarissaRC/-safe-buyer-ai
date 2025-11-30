@@ -1,3 +1,8 @@
+"""
+Orquestração do fluxo e-consumidor: triagem -> análise jurídica -> casos -> guia -> revisão.
+Chamado pelo tool principal `fluxo_e_consumidor` definido em mcp_server.py.
+"""
+
 from app.agents.critic_agent import review_answer
 from app.agents.guidance_agent import build_guidance
 from app.agents.legal_agent import analyze_case

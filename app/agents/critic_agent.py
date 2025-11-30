@@ -1,3 +1,8 @@
+"""
+Agente crítico: revisa e melhora a resposta consolidada antes de devolver ao usuário.
+Última etapa antes de retornar o texto final ao consumidor.
+"""
+
 from app.config import BASE_MODEL_ID, client
 
 CRITIC_SYSTEM_PROMPT = """

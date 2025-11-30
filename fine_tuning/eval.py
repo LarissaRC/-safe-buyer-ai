@@ -1,8 +1,13 @@
+"""
+Script auxiliar/experimental para avaliar um modelo fine-tuned.
+Não integra o fluxo MCP de produção; requer chave e IDs configurados manualmente.
+"""
+
 import os
 import time
 from openai import OpenAI
 
-client = OpenAI(api_key="SUA-CHAVE-AQUI")
+client = OpenAI(api_key="SUA-CHAVE-AQUI")  # placeholder controlado
 MODELO_TESTADO = "ft:gpt-4o-mini-2024-07-18:personal::CfNSu6qd"
 
 print("Fazendo upload do arquivo de teste...")

@@ -1,3 +1,8 @@
+"""
+Agente de triagem: recebe relato do consumidor e devolve classificação estruturada.
+É o primeiro passo do fluxo em app.workflow.e_consumidor.
+"""
+
 import json
 
 from app.config import BASE_MODEL_ID, client

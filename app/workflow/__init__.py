@@ -1,1 +1,1 @@
-# Workflow package initializer
+"""Fluxos de alto nível do assistente (processar_queixa, etc.)."""

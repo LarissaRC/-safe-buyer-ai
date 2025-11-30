@@ -1,3 +1,8 @@
+"""
+Agente de orientação: transforma a análise jurídica em plano de ação prático.
+Também sugere modelos de documentos baseados na categoria detectada.
+"""
+
 from app.config import BASE_MODEL_ID, client
 from app.tools.modelos_documentos import sugerir_modelos
 

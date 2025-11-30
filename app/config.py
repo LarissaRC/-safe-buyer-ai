@@ -1,7 +1,14 @@
+"""
+Configurações centrais do projeto (cliente OpenAI e seleção de modelos).
+
+Mantém IDs base/fine-tuned usados pelos agentes em app/agents.
+"""
+
 import os
 from openai import OpenAI
 
-# API key can be fixed here or read from an environment variable
+# Use a variável de ambiente OPENAI_API_KEY; "SUA-CHAVE-AQUI" é só placeholder local,
+# não committe sua chave real.
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") or "SUA-CHAVE-AQUI"
 
 client = OpenAI(api_key=OPENAI_API_KEY)

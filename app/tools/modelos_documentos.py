@@ -1,3 +1,8 @@
+"""
+Tool de modelos de documentos: sugere modelos conforme categoria.
+Atende o agente de orientação e pode apontar para arquivos em assets/.
+"""
+
 # Aqui você pode depois ligar com arquivos reais (DOCX/PDF) na pasta /assets/modelos/
 
 MODELOS_BASE = [

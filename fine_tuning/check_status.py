@@ -1,8 +1,13 @@
+"""
+Script auxiliar/experimental para monitorar o status de um job de fine-tuning.
+Fora do fluxo de produção; exige configuração manual de JOB_ID e chave.
+"""
+
 from openai import OpenAI
 import time
 import os
 
-client = OpenAI(api_key="SUA-CHAVE-AQUI")
+client = OpenAI(api_key="SUA-CHAVE-AQUI")  # placeholder controlado, não committe chave real
 
 # JOB_ID = "ftjob-XXXXXXXXXXXXXXXXXXXXXXXX"
 JOB_ID = "ftjob-4YsS9JOpIwd5hak7A9NcYRkm"
