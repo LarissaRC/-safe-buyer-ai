@@ -20,6 +20,7 @@ Sempre responda em português do Brasil.
 
 
 def analyze_case(queixa: str, triagem: dict) -> str:
+    print(LEGAL_MODEL_ID)
     content_user = f"""
 Relato do consumidor:
 {queixa}
