@@ -64,7 +64,6 @@ async def main() -> None:
 
             # `final_output` é a resposta do agente
             print(result.final_output)
-            print(result.new_items)
             print("\n" + "=" * 70 + "\n")
 
     finally:
