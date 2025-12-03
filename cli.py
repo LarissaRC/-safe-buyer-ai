@@ -1,7 +1,6 @@
 import asyncio
 from pathlib import Path
 
-from app.workflow.e_consumidor import processar_queixa
 from openai import OpenAI
 from agents import Agent, Runner
 from agents.model_settings import ModelSettings

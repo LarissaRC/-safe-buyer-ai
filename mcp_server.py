@@ -73,7 +73,16 @@ def processar_queixa(queixa: str) -> str:
     guia = build_guidance(queixa, triagem, analise)
 
     resposta_bruta = f"""
+
+=== Classificação da Triagem ===
+
+
 === Análise Jurídica ===
+{triagem.get('categoria')}
+{triagem.get('subcategoria')}
+{triagem.get('urgencia')}
+{triagem.get('resumo')}
+
 {analise}
 
 {casos_txt}

@@ -1,6 +1,5 @@
 import streamlit as st
 import asyncio
-from pathlib import Path
 from openai import OpenAI
 from agents import Agent, Runner
 from agents.model_settings import ModelSettings
