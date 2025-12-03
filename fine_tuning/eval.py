@@ -8,7 +8,7 @@ import time
 from openai import OpenAI
 
 client = OpenAI(api_key="SUA-CHAVE-AQUI")  # placeholder controlado
-MODELO_TESTADO = "ft:gpt-4o-mini-2024-07-18:personal::CfNSu6qd"
+MODELO_TESTADO = "ft:gpt-4o-mini-2024-07-18:personal::CikOLzaf"
 
 print("Fazendo upload do arquivo de teste...")
 file_response = client.files.create(

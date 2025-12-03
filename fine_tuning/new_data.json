@@ -1,0 +1,373 @@
+[
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Os produtos colocados no mercado podem oferecer riscos à saúde do consumidor?" },
+      { "role": "assistant", "content": "Conforme o Art. 8°, produtos e serviços não podem acarretar riscos à saúde ou segurança dos consumidores, exceto os considerados normais e previsíveis em decorrência de sua natureza e fruição. Mesmo nesses casos, o fornecedor é obrigado a dar informações necessárias e adequadas a respeito." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Como o fabricante deve alertar sobre riscos normais em produtos industriais?" },
+      { "role": "assistant", "content": "De acordo com o Parágrafo único do Art. 8°, em se tratando de produto industrial, cabe ao fabricante prestar as informações sobre riscos através de impressos apropriados que devem acompanhar o produto." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O que o fornecedor deve fazer ao vender produtos potencialmente nocivos?" },
+      { "role": "assistant", "content": "Segundo o Art. 9°, o fornecedor de produtos e serviços potencialmente nocivos ou perigosos à saúde ou segurança deve informar, de maneira ostensiva e adequada, a respeito da sua nocividade ou periculosidade." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "É permitido colocar no mercado um produto sabidamente perigoso?" },
+      { "role": "assistant", "content": "Não. O Art. 10 proíbe o fornecedor de colocar no mercado de consumo produto ou serviço que sabe ou deveria saber apresentar alto grau de nocividade ou periculosidade à saúde ou segurança." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O que fazer se o fornecedor descobrir a periculosidade do produto após a venda?" },
+      { "role": "assistant", "content": "Conforme o § 1º do Art. 10, se tiver conhecimento da periculosidade após a introdução no mercado, o fornecedor deverá comunicar o fato imediatamente às autoridades competentes e aos consumidores, mediante anúncios publicitários." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quem arca com os custos dos anúncios de alerta sobre produtos perigosos?" },
+      { "role": "assistant", "content": "De acordo com o § 2º do Art. 10, os anúncios publicitários serão veiculados na imprensa, rádio e televisão, às expensas do fornecedor do produto ou serviço." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O Estado deve informar sobre produtos perigosos?" },
+      { "role": "assistant", "content": "Sim. O § 3º do Art. 10 determina que a União, os Estados, o Distrito Federal e os Municípios deverão informar os consumidores sempre que tiverem conhecimento da periculosidade de produtos ou serviços." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quem responde pelos danos causados por defeitos de fabricação?" },
+      { "role": "assistant", "content": "Segundo o Art. 12, o fabricante, o produtor, o construtor (nacional ou estrangeiro) e o importador respondem pela reparação dos danos causados aos consumidores por defeitos de projeto, fabricação, etc." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "A responsabilidade do fabricante depende de culpa?" },
+      { "role": "assistant", "content": "Não. O Art. 12 estabelece que a responsabilidade do fabricante, produtor, construtor e importador independe da existência de culpa." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quando um produto é considerado defeituoso?" },
+      { "role": "assistant", "content": "Conforme o § 1º do Art. 12, o produto é defeituoso quando não oferece a segurança que dele legitimamente se espera, considerando sua apresentação, uso e riscos esperados, e a época de circulação." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O lançamento de um modelo novo torna o antigo defeituoso?" },
+      { "role": "assistant", "content": "Não. O § 2º do Art. 12 afirma que o produto não é considerado defeituoso pelo fato de outro de melhor qualidade ter sido colocado no mercado." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quando o fabricante não será responsabilizado por defeitos?" },
+      { "role": "assistant", "content": "De acordo com o § 3º do Art. 12, ele não será responsabilizado se provar: I - que não colocou o produto no mercado; II - que o defeito inexiste; ou III - a culpa exclusiva do consumidor ou de terceiro." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quando o comerciante é responsável pelo defeito do produto?" },
+      { "role": "assistant", "content": "Segundo o Art. 13, o comerciante é responsável quando: I - o fabricante/importador não puderem ser identificados; II - o produto não tiver identificação clara do fabricante; ou III - não conservar adequadamente produtos perecíveis." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O comerciante que paga a indenização pode cobrar dos outros responsáveis?" },
+      { "role": "assistant", "content": "Sim. O Parágrafo único do Art. 13 garante o direito de regresso contra os demais responsáveis àquele que efetivar o pagamento ao prejudicado." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O fornecedor de serviços responde independentemente de culpa?" },
+      { "role": "assistant", "content": "Sim. O Art. 14 determina que o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O que caracteriza um serviço defeituoso?" },
+      { "role": "assistant", "content": "Conforme o § 1º do Art. 14, o serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando em conta o modo de fornecimento, o resultado e riscos esperados, e a época em que foi fornecido." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "A adoção de novas técnicas torna o serviço anterior defeituoso?" },
+      { "role": "assistant", "content": "Não. O § 2º do Art. 14 estabelece que o serviço não é considerado defeituoso pela adoção de novas técnicas." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Como é apurada a responsabilidade de profissionais liberais?" },
+      { "role": "assistant", "content": "Segundo o § 4º do Art. 14, a responsabilidade pessoal dos profissionais liberais será apurada mediante a verificação de culpa." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quem são as vítimas do evento danoso para efeitos de proteção?" },
+      { "role": "assistant", "content": "Conforme o Art. 17, equiparam-se aos consumidores todas as vítimas do evento." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quem responde pelos vícios de qualidade ou quantidade do produto?" },
+      { "role": "assistant", "content": "De acordo com o Art. 18, os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Qual o prazo para sanar o vício do produto?" },
+      { "role": "assistant", "content": "O § 1º do Art. 18 estipula o prazo máximo de trinta dias para o vício ser sanado." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quais as opções do consumidor se o vício não for sanado em 30 dias?" },
+      { "role": "assistant", "content": "Conforme os incisos do § 1º do Art. 18, o consumidor pode exigir: I - a substituição do produto; II - a restituição imediata da quantia paga; ou III - o abatimento proporcional do preço." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O prazo de 30 dias para conserto pode ser alterado?" },
+      { "role": "assistant", "content": "Sim. O § 2º do Art. 18 permite que as partes convencionem a redução ou ampliação do prazo, respeitando os limites de sete a cento e oitenta dias." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quando o consumidor não precisa esperar os 30 dias para troca?" },
+      { "role": "assistant", "content": "Segundo o § 3º do Art. 18, o consumidor pode fazer uso imediato das alternativas quando a substituição das partes puder comprometer a qualidade/características do produto, diminuir-lhe o valor ou se tratar de produto essencial." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O que acontece se não houver produto igual para substituição?" },
+      { "role": "assistant", "content": "Conforme o § 4º do Art. 18, poderá haver substituição por outro de espécie, marca ou modelo diversos, mediante complementação ou restituição de eventual diferença de preço." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quem responde por vícios em produtos in natura?" },
+      { "role": "assistant", "content": "De acordo com o § 5º do Art. 18, no caso de produtos in natura, será responsável o fornecedor imediato, exceto quando identificado claramente seu produtor." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quais produtos são considerados impróprios ao uso e consumo?" },
+      { "role": "assistant", "content": "Segundo o § 6º do Art. 18, são impróprios: I - os produtos com prazos de validade vencidos; II - os deteriorados, alterados, adulterados, avariados, falsificados, corrompidos, fraudados, nocivos à vida ou à saúde, ou em desacordo com normas; III - os inadequados ao fim a que se destinam." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quais as opções do consumidor em caso de vício de quantidade?" },
+      { "role": "assistant", "content": "Conforme o Art. 19, o consumidor pode exigir: I - o abatimento proporcional do preço; II - complementação do peso ou medida; III - a substituição do produto; ou IV - a restituição imediata da quantia paga." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O fornecedor imediato responde por erros de pesagem?" },
+      { "role": "assistant", "content": "Sim. O § 2º do Art. 19 estabelece que o fornecedor imediato será responsável quando fizer a pesagem ou a medição e o instrumento utilizado não estiver aferido." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quais as opções do consumidor se o serviço tiver vícios de qualidade?" },
+      { "role": "assistant", "content": "Segundo o Art. 20, o consumidor pode exigir: I - a reexecução dos serviços; II - a restituição imediata da quantia paga; ou III - o abatimento proporcional do preço." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "A reexecução do serviço pode ser feita por terceiros?" },
+      { "role": "assistant", "content": "Sim. O § 1º do Art. 20 permite que a reexecução seja confiada a terceiros devidamente capacitados, por conta e risco do fornecedor." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Que tipo de peças devem ser usadas na reparação de produtos?" },
+      { "role": "assistant", "content": "Conforme o Art. 21, o fornecedor tem a obrigação implícita de empregar componentes de reposição originais adequados e novos, salvo autorização em contrário do consumidor." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Os serviços públicos podem ser ineficientes?" },
+      { "role": "assistant", "content": "Não. O Art. 22 obriga os órgãos públicos e concessionárias a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O desconhecimento do vício exime o fornecedor de responsabilidade?" },
+      { "role": "assistant", "content": "Não. O Art. 23 afirma que a ignorância do fornecedor sobre os vícios de qualidade não o exime de responsabilidade." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "A garantia legal precisa estar no contrato?" },
+      { "role": "assistant", "content": "Não. O Art. 24 estabelece que a garantia legal de adequação independe de termo expresso." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "É válida cláusula que isenta o fornecedor de indenizar?" },
+      { "role": "assistant", "content": "Não. O Art. 25 veda a estipulação contratual de cláusula que impossibilite, exonere ou atenue a obrigação de indenizar." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Qual o prazo para reclamar de vícios aparentes?" },
+      { "role": "assistant", "content": "Conforme o Art. 26, o direito de reclamar caduca em: I - trinta dias para serviços e produtos não duráveis; II - noventa dias para serviços e produtos duráveis." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quando começa a contar o prazo de reclamação para vícios aparentes?" },
+      { "role": "assistant", "content": "De acordo com o § 1º do Art. 26, inicia-se a contagem a partir da entrega efetiva do produto ou do término da execução dos serviços." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "A reclamação feita ao fornecedor para o prazo decadencial?" },
+      { "role": "assistant", "content": "Sim. O Inciso I do § 2º do Art. 26 determina que a reclamação comprovadamente formulada perante o fornecedor obsta a decadência até a resposta negativa correspondente." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quando começa o prazo para reclamar de vício oculto?" },
+      { "role": "assistant", "content": "Segundo o § 3º do Art. 26, tratando-se de vício oculto, o prazo decadencial inicia-se no momento em que ficar evidenciado o defeito." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Qual o prazo prescricional para reparação de danos por fato do produto?" },
+      { "role": "assistant", "content": "O Art. 27 estabelece que a pretensão prescreve em cinco anos, iniciando-se a contagem a partir do conhecimento do dano e de sua autoria." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quando o juiz pode desconsiderar a personalidade jurídica?" },
+      { "role": "assistant", "content": "Conforme o Art. 28, o juiz pode desconsiderar a personalidade jurídica quando houver abuso de direito, excesso de poder, infração da lei, fato ilícito, violação dos estatutos, falência, insolvência, ou quando for obstáculo ao ressarcimento de prejuízos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "A publicidade vincula o fornecedor?" },
+      { "role": "assistant", "content": "Sim. O Art. 30 determina que toda informação ou publicidade suficientemente precisa obriga o fornecedor e integra o contrato." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Quais informações devem constar na oferta de produtos?" },
+      { "role": "assistant", "content": "Segundo o Art. 31, a oferta deve assegurar informações corretas, claras, precisas e em língua portuguesa sobre características, qualidade, quantidade, composição, preço, garantia, prazos de validade, origem e riscos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O fabricante deve manter peças de reposição?" },
+      { "role": "assistant", "content": "Sim. O Art. 32 obriga fabricantes e importadores a assegurar a oferta de componentes e peças de reposição enquanto não cessar a fabricação ou importação, e por período razoável após a cessação." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O fornecedor responde pelos atos de seus representantes?" },
+      { "role": "assistant", "content": "Sim. O Art. 34 estabelece que o fornecedor é solidariamente responsável pelos atos de seus prepostos ou representantes autônomos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O que o consumidor pode fazer se o fornecedor recusar cumprir a oferta?" },
+      { "role": "assistant", "content": "Conforme o Art. 35, o consumidor pode: I - exigir o cumprimento forçado da obrigação; II - aceitar outro produto equivalente; ou III - rescindir o contrato com direito à restituição do valor pago e perdas e danos." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "A publicidade deve ser identificável?" },
+      { "role": "assistant", "content": "Sim. O Art. 36 determina que a publicidade deve ser veiculada de tal forma que o consumidor, fácil e imediatamente, a identifique como tal." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O fornecedor deve guardar dados que comprovem a publicidade?" },
+      { "role": "assistant", "content": "Sim. O Parágrafo único do Art. 36 obriga o fornecedor a manter em seu poder os dados fáticos, técnicos e científicos que dão sustentação à mensagem publicitária." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O que é publicidade enganosa?" },
+      { "role": "assistant", "content": "Segundo o § 1° do Art. 37, é enganosa qualquer modalidade de informação ou comunicação de caráter publicitário inteira ou parcialmente falsa, ou que por omissão seja capaz de induzir em erro o consumidor." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "O que é publicidade abusiva?" },
+      { "role": "assistant", "content": "Conforme o § 2º do Art. 37, é abusiva a publicidade discriminatória, que incite à violência, explore o medo ou a superstição, se aproveite da deficiência de julgamento da criança, desrespeite valores ambientais, ou induza o consumidor a se comportar de forma prejudicial." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "Qual a consequência de não cumprir a oferta por telefone?" },
+      { "role": "assistant", "content": "O Art. 35 se aplica também a ofertas por telefone. Se recusar o cumprimento, o consumidor pode exigir o cumprimento forçado, aceitar outro produto ou rescindir o contrato." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "system", "content": "Você é um especialista em Direito do Consumidor brasileiro, respondendo com base no Código de Defesa do Consumidor e citando os artigos correspondentes." },
+      { "role": "user", "content": "É permitida publicidade por telefone com custo para o consumidor?" },
+      { "role": "assistant", "content": "Não. O Parágrafo único do Art. 33 proíbe a publicidade de bens e serviços por telefone quando a chamada for onerosa ao consumidor que a origina." }
+    ]
+  }
+]

@@ -9,7 +9,7 @@ import os
 
 client = OpenAI(api_key="SUA-CHAVE-AQUI")  # placeholder para execução local controlada
 
-input_json_file = "data.json"
+input_json_file = "new_data.json"
 output_jsonl_file = "data.jsonl"
 
 def convert_to_jsonl(input_path, output_path):

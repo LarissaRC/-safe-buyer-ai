@@ -10,7 +10,7 @@ import os
 client = OpenAI(api_key="SUA-CHAVE-AQUI")  # placeholder controlado, não committe chave real
 
 # JOB_ID = "ftjob-XXXXXXXXXXXXXXXXXXXXXXXX"
-JOB_ID = "ftjob-4YsS9JOpIwd5hak7A9NcYRkm"
+JOB_ID = "ftjob-oTzfPoaqIWbBHf6MYiTDu3Wx"
 
 def check_status(job_id):
     while True:
