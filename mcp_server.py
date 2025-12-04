@@ -75,14 +75,12 @@ def processar_queixa(queixa: str) -> str:
     resposta_bruta = f"""
 
 === Classificação da Triagem ===
-
-
-=== Análise Jurídica ===
 {triagem.get('categoria')}
 {triagem.get('subcategoria')}
 {triagem.get('urgencia')}
 {triagem.get('resumo')}
 
+=== Análise Jurídica ===
 {analise}
 
 {casos_txt}
@@ -103,7 +101,6 @@ def processar_queixa(queixa: str) -> str:
     print("=== Resposta do Assistente Jurídico ===")
 
     return resposta_final
-
 
 #@mcp.tool()
 #def buscar_jurisprudencia_por_categoria(categoria: str) -> List[CasoJurisprudencia]:

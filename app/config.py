@@ -14,7 +14,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") or "SUA-CHAVE-AQUI"
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Fine-tuned legal model (set the ID if available)
-FINE_TUNED_LEGAL_MODEL_ID = None  # ex: "ft:gpt-4o-mini-2024-07-18:personal::XXXXX"
+FINE_TUNED_LEGAL_MODEL_ID = "ft:gpt-4o-mini-2024-07-18:personal::CikOLzaf"  # ex: "ft:gpt-4o-mini-2024-07-18:personal::XXXXX"
 
 # Base model for fallback and non-legal agents
 BASE_MODEL_ID = "gpt-4o-mini"
